@@ -1,0 +1,9 @@
+command line for first commit github in phpstorm!!!
+git init 
+git add ....file me...... // file
+git commit -m "first commit"
+git remote add origin .....url......//url for git
+git push -u origin master 
+
+------------------next step in push next time----------------
+git push origin master
